@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "This is a test post!!"
+crawlertitle: "My title"
+summary: "Jekyll default page~~"
+date:   2018-10-26 23:09:47 +0700
+categories: posts
+tags: 'hello'
+author: Chester
+---
+I want to test it
